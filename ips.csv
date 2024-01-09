@@ -1,0 +1,51 @@
+,Country,Decimal,Hostname,ISP,Services,State_Region,City,Latitude,Longitude
+0,Ethiopia,3300908216,196.191.220.184,24757,Ethio Telecom,Ethiopia,Addis Ababa,9.0250 (9° 1′ 29.89″ N),9.0250 (9° 1′ 29.89″ N)
+1,Japan,81280458,4.216.61.202,8075,Microsoft Corporation,Japan,Tokyo,35.6895 (35° 41′ 22.20″ N),35.6895 (35° 41′ 22.20″ N)
+2,United States,1240621168,c-73-242-96-112.hsd1.mn.comcast.net,7922,Comcast Cable Communications LLC,United States,Minnesota,44.9800 (44° 58′ 47.89″ N),44.9800 (44° 58′ 47.89″ N)
+3,Alabama,2158064360,128.161.114.232,National Aeronautics and Space Administration,None detected,Alabama,Redstone Arsenal,-86.6546 (86° 39′ 16.51″ W),-86.6546 (86° 39′ 16.51″ W)
+4,No country found,4221431482,251.157.238.186,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+5,No country found,3819732323,227.172.125.99,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+6,No country found,4084036351,243.109.114.255,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+7,No country found,4291612645,255.204.207.229,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+8,No country found,4216637488,251.84.200.48,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+9,United States,1240390282,c-73-238-218-138.hsd1.ma.comcast.net,7922,Comcast Cable Communications LLC,United States,Massachusetts,42.2792 (42° 16′ 45.02″ N),42.2792 (42° 16′ 45.02″ N)
+10,United States,1199508560,pool-71-127-12-80.spfdma.east.verizon.net,701,Verizon Business,United States,Massachusetts,42.1016 (42° 6′ 5.68″ N),42.1016 (42° 6′ 5.68″ N)
+11,China,3396830032,202.119.131.80,4538,China Education and Research Network,China,Beijing,39.9075 (39° 54′ 27.00″ N),39.9075 (39° 54′ 27.00″ N)
+12,Colombia,3189340767,dynamic-190-25-122-95.dynamic.etb.net.co,19429,ETB - Colombia,Colombia,Distrito Capital de Bogota,4.6097 (4° 36′ 34.96″ N),4.6097 (4° 36′ 34.96″ N)
+13,-,3544150040,211.63.112.24,-,None detected,-,-,No latitude found,No longitude found
+14,Seoul-teukbyeolsi,2066376879,123.42.104.175,SamsungSDS Inc.,None detected,Seoul-teukbyeolsi,Seoul,126.9772 (126° 58′ 37.93″ E),126.9772 (126° 58′ 37.93″ E)
+15,United States,1825064480,108-200-70-32.lightspeed.tukrga.sbcglobal.net,7018,AT&T Corp.,United States,Georgia,33.8082 (33° 48′ 29.37″ N),33.8082 (33° 48′ 29.37″ N)
+16,France,1552914894,92.143.153.206,3215,Orange S.A.,France,Provence-Alpes-Cote-d'Azur,43.7031 (43° 42′ 11.26″ N),43.7031 (43° 42′ 11.26″ N)
+17,China,1941430312,115.183.224.40,4808,Beijing Bitone United Networks,China,Beijing,39.9075 (39° 54′ 27.00″ N),39.9075 (39° 54′ 27.00″ N)
+18,No country found,3769126530,224.168.78.130,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+19,No country found,4006418738,238.205.25.50,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+20,United States,106166350,6.83.248.78,749,Headquarters USAISC,United States,Arizona,31.5565 (31° 33′ 23.25″ N),31.5565 (31° 33′ 23.25″ N)
+21,United States,3251318792,193.203.48.8,204957,Ivanov Vitaliy Sergeevich,United States,Florida,25.7743 (25° 46′ 27.37″ N),25.7743 (25° 46′ 27.37″ N)
+22,China,1851138438,134.33.86.110.broad.xm.fj.dynamic.163data.com.cn,4134,ChinaNet Fujian Province Network,China,Fujian,24.4798 (24° 28′ 47.24″ N),24.4798 (24° 28′ 47.24″ N)
+23,United States,1043547687,62.51.70.39,10310,Historic AOL LLC,United States,Virginia,38.9977 (38° 59′ 51.75″ N),38.9977 (38° 59′ 51.75″ N)
+24,China,1034044724,61.162.69.52,4837,China Unicom Shandong Province Network,China,Shandong,35.4050 (35° 24′ 18.00″ N),35.4050 (35° 24′ 18.00″ N)
+25,Japan,3675287546,softbank219016111250.bbtec.net,17676,SoftBank Corp.,Japan,Tokyo,35.6895 (35° 41′ 22.20″ N),35.6895 (35° 41′ 22.20″ N)
+26,United States,2660171520,158.142.255.0,36691,Colorado State University-Pueblo,United States,Colorado,40.5730 (40° 34′ 22.81″ N),40.5730 (40° 34′ 22.81″ N)
+27,England,2751863788,164.6.27.236,Eagle Star Insurance,None detected,England,Cheltenham,-2.0833 (2° 4′ 59.99″ W),-2.0833 (2° 4′ 59.99″ W)
+28,United States,1631304534,86.sub-97-59-187.myvzw.com,22394,Verizon Business,United States,New Jersey,40.7323 (40° 43′ 56.20″ N),40.7323 (40° 43′ 56.20″ N)
+29,Japan,2126846597,ai126197026133.18.access-internet.ne.jp,17676,SoftBank Corp.,Japan,Tokyo,35.6895 (35° 41′ 22.20″ N),35.6895 (35° 41′ 22.20″ N)
+30,-,2133450957,127.41.224.205,Loopback,None detected,-,-,No latitude found,No longitude found
+31,United States,2431959375,144.244.193.79,367,Headquarters USAISC,United States,Arizona,31.5565 (31° 33′ 23.25″ N),31.5565 (31° 33′ 23.25″ N)
+32,Ecuador,3039237792,host-181-39-22-160.telconet.net,27947,Clientes Virgen de Fatima,Ecuador,Guayas,-2.1663 (2° 9′ 58.57″ S),-2.1663 (2° 9′ 58.57″ S)
+33,Russian Federation,1841747669,109-198-214-x.dynamic.b-domolink.net,12389,OJSC Rostelecom,Russian Federation,Bryanskaya oblast',52.5396 (52° 32′ 22.56″ N),52.5396 (52° 32′ 22.56″ N)
+34,No country found,3983728647,237.114.224.7,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+35,Russian Federation,1505603432,104.175.189.89.sta.211.ru,40995,Norilsk-Telecom JSC,Russian Federation,Kemerovskaya oblast',53.7557 (53° 45′ 20.56″ N),53.7557 (53° 45′ 20.56″ N)
+36,Canada,2396621400,142-217-138-88.telebecinternet.net,35911,Telebec,Canada,Quebec,45.5104 (45° 30′ 37.27″ N),45.5104 (45° 30′ 37.27″ N)
+37,Alaska,2544483198,151.169.187.126,Alyeska Pipeline Service Company,Datacenter,Alaska,Anchorage,-149.9877 (149° 59′ 15.72″ W),-149.9877 (149° 59′ 15.72″ W)
+38,Korea (Republic of),1995055828,118.234.34.212,4766,KT Corporation,Korea (Republic of),Gyeonggi-do,37.4206 (37° 25′ 14.25″ N),37.4206 (37° 25′ 14.25″ N)
+39,No country found,4082576150,243.87.43.22,None detected,Likely Static IP,No state/region found,No city found,No latitude found,No longitude found
+40,Japan,1011874052,softbank060079249004.bbtec.net,17676,SoftBank Corp.,Japan,Chiba,35.6002 (35° 36′ 0.71″ N),35.6002 (35° 36′ 0.71″ N)
+41,Kazakhstan,1597680859,95.58.172.219.megaline.telecom.kz,9198,JSC Kazakhtelecom,Kazakhstan,Astana,51.1801 (51° 10′ 48.36″ N),51.1801 (51° 10′ 48.36″ N)
+42,United States,1096295378,65.88.35.210,3356,Level 3 Communications Inc.,United States,Louisiana,32.5483 (32° 32′ 53.98″ N),32.5483 (32° 32′ 53.98″ N)
+43,United States,1130199232,67.93.120.192.ptr.us.xo.net,2828,Verizon Business,United States,New York,40.7132 (40° 42′ 47.49″ N),40.7132 (40° 42′ 47.49″ N)
+44,Japan,3677600429,softbank219051186173.bbtec.net,17676,SoftBank Corp.,Japan,Tokyo,35.6895 (35° 41′ 22.20″ N),35.6895 (35° 41′ 22.20″ N)
+45,Indonesia,668218973,39.212.54.93,23693,PT Telekomunikasi Selular Indonesia,Indonesia,Gorontalo,0.6277 (0° 37′ 39.72″ N),0.6277 (0° 37′ 39.72″ N)
+46,United States,414758560,ool-18b8b6a0.dyn.optonline.net,6128,Optimum Online,United States,New York,40.7132 (40° 42′ 47.49″ N),40.7132 (40° 42′ 47.49″ N)
+47,United States,445856861,26.147.60.93,749,DoD Network Information Center,United States,Ohio,39.9664 (39° 57′ 58.97″ N),39.9664 (39° 57′ 58.97″ N)
+48,China,1873726813,111.174.205.93,4134,ChinaNet Hubei Province Network,China,Hubei,30.5833 (30° 34′ 59.99″ N),30.5833 (30° 34′ 59.99″ N)
+49,United States,366091459,21.210.28.195,749,DoD Network Information Center,United States,Ohio,39.9664 (39° 57′ 58.97″ N),39.9664 (39° 57′ 58.97″ N)
